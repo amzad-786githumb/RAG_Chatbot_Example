@@ -14,3 +14,15 @@ RAG, or Retrieval-Augmented Generation, is a technique in AI that combines retri
 4. **Applications**: RAG is useful in various applications, including chatbots, question-answering systems, and any scenario where accurate and contextually appropriate responses are critical.
 
 Overall, RAG combines the strengths of both retrieval and generation, leading to more effective and informative AI interactions.
+
+
+Concepts Covered
+Retrieval Augmented Generation
+
+Large Language Models using Llamafile
+
+Using Vector databases like Qdrant
+
+Creating embeddings with Sentence Transformers
+
+Using OpenAI's Python API to connect to the LLM and produce responses
